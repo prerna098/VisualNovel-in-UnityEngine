@@ -1,1 +1,1 @@
-# VisualNovel-in-UnityEngine
+This Visual Novel is designed to engage players with a compelling story, character choices, and branching dialogue paths. The project utilizes Unity's UI system, custom scripts for dialogue management, and optional support for audio, background music, and character animations.
