@@ -63,7 +63,7 @@ The system is designed to separate narrative content from gameplay logic, making
 - C#
 - Unity UI System
 - Scene Management
-- ScriptableObjects (if used)
+- ScriptableObjects 
 - Animator (for transitions)
 - Event-driven programming
 
