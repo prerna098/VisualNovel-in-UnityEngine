@@ -1,6 +1,6 @@
 This Visual Novel is designed to engage players with a compelling story, character choices, and branching dialogue paths. The project utilizes Unity's UI system, custom scripts for dialogue management, and optional support for audio, background music, and character animations.
 
-# 🎮 Visual Novel Engine in Unity
+#  Visual Novel Engine in Unity
 
 A customizable visual novel framework built in Unity using C#.  
 This project demonstrates branching dialogue systems, character interaction logic, UI management, and narrative-driven gameplay architecture.
@@ -9,7 +9,7 @@ The goal of this project is to simulate a scalable story-based game system simil
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 This Visual Novel project includes:
 
@@ -25,31 +25,31 @@ The system is designed to separate narrative content from gameplay logic, making
 
 ---
 
-## 🧠 Core Features
+##  Core Features
 
-### 📖 Dialogue System
+###  Dialogue System
 - Typewriter text animation
 - Dynamic speaker name display
 - Dialogue queue system
 - Script-driven conversations
 
-### 🔀 Branching Choices
+###  Branching Choices
 - Player decisions affect story flow
 - Multiple dialogue paths
 - Conditional progression logic
 
-### 🖼 Character Management
+###  Character Management
 - Dynamic sprite switching
 - Expression changes
 - Background transitions
 
-### 🎨 UI & UX
+###  UI & UX
 - Clean dialogue box UI
 - Interactive choice buttons
 - Scene fade transitions
 - Organized canvas structure
 
-### 🧩 Modular Architecture
+###  Modular Architecture
 - Written in C#
 - Scalable design for future expansion
 - Easy to add new dialogue scripts
@@ -57,7 +57,7 @@ The system is designed to separate narrative content from gameplay logic, making
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - Unity Engine
 - C#
